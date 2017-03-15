@@ -1,0 +1,28 @@
+{
+  "name": "anneciel/helloworld",
+  "description": "test",
+  "keywords": [
+    ""
+  ],
+  "type": "yii2-extension",
+  "minimum-stability": "stable",
+  "support": {
+    "issues": "https://github.com/anneciel/helloworld/issues",
+    "source": "https://github.com/anneciel/helloworld"
+  },
+  "authors": [
+    {
+      "name": "aaa",
+      "email": "aa@a.com"
+    }
+  ],
+  "require": {
+    "php": ">=5.5.0",
+    "yiisoft/yii2": "2.0.*"
+  },
+  "autoload": {
+    "psr-4": {
+      "helloworld": ""
+    }
+  }
+}
